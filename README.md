@@ -1,45 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Hotstar Repository</title>
-  <!-- Add CSS framework(s) -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-    }
-    h1 {
-      font-size: 28px;
-      color: #333;
-    }
-    p {
-      font-size: 16px;
-      line-height: 1.5;
-      color: #555;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      margin-top: 20px;
-      padding-left: 40px;
-    }
-    li {
-      font-size: 16px;
-      line-height: 1.5;
-      color: #555;
-    }
-  </style>
-</head>
-<body>
   <div class="container">
     <h1>Hotstar Repository</h1>
     <p>Welcome to the Hotstar repository on GitHub! This repository contains the source code for the Hotstar application.</p>
@@ -68,8 +27,5 @@
   </div>
 
   <!-- Add JavaScript framework(s) if needed -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
